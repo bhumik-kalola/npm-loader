@@ -1,7 +1,7 @@
 {
-  "name": "loader",
-  "version": "0.1.0",
-  "private": true,
+  "name": "uniquespinner",
+  "version": "1.0.0",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -39,5 +39,26 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhumikKalola21/uniquespinner.git"
+  },
+  "keywords": [
+    "spinner",
+    "uniquespinner",
+    "loader",
+    "vuejs",
+    "vueanimation",
+    "animation",
+    "coolspinner"
+  ],
+  "author": "Bhumik Kalola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhumikKalola21/uniquespinner/issues"
+  },
+  "homepage": "https://github.com/BhumikKalola21/uniquespinner#readme"
 }
